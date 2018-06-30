@@ -1,0 +1,24 @@
+edgeType,source,dest,location,location.type,used-time,used-time.type,total_time,total_time.type,generation-time,generation-time.type,invalidation-time,invalidation-time.type,dummy_invalidation_att,dummy_invalidation_att.type,start-time,start-time.type,dummy,dummy.type,end-time,end-time.type,dummy_end_att,dummy_end_att.type,type,type.type,dummy_revision,dummy_revision.type,dummy_quotation,dummy_quotation.type,dummy_derivation,dummy_derivation.type,dummy_att,dummy_att.type
+used,kom:Activity_335,kom:Collection_726,Location2,xsd:string,2014-04-17 13:18:56.0,xsd:dateTime,0.53h,xsd:string,"","","","","","","","","","","","","","","","","","","","","","","",""
+used,kom:Activity_334,kom:File_725,Location2,xsd:string,2014-04-17 13:18:56.0,xsd:dateTime,0.53h,xsd:string,"","","","","","","","","","","","","","","","","","","","","","","",""
+wasGeneratedBy,kom:Collection_730,kom:Activity_336,Location1,xsd:string,"","",1.23h,xsd:string,2014-04-17 13:18:56.0,xsd:dateTime,"","","","","","","","","","","","","","","","","","","","","",""
+wasGeneratedBy,kom:File_728,kom:Activity_336,Location1,xsd:string,"","",1.23h,xsd:string,2014-04-17 13:18:56.0,xsd:dateTime,"","","","","","","","","","","","","","","","","","","","","",""
+wasGeneratedBy,kom:File_732,kom:Activity_334,Location1,xsd:string,"","",1.23h,xsd:string,2014-04-17 13:18:57.0,xsd:dateTime,"","","","","","","","","","","","","","","","","","","","","",""
+wasDerivedFrom,kom:File_734,kom:File_733,"","","","","","","","","","","","","","","","","","","","",prov:Revision,xsd:QName,dummy_val,xsd:string,"","","","","",""
+wasDerivedFrom,kom:File_735,kom:File_733,"","","","","","","","","","","","","","","","","","","","",prov:Quotation,xsd:QName,"","",dummy_val,xsd:string,"","","",""
+wasDerivedFrom,kom:File_736,kom:File_733,"","","","","","","","","","","","","","","","","","","","",prov:PrimarySource,xsd:QName,"","","","",dummy_val,xsd:string,"",""
+wasDerivedFrom,kom:File_732,kom:File_725,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+wasDerivedFrom,kom:File_733,kom:File_728,"","","","","","","","","","","","","","","","","","","","","","","","","","",dummy_val,xsd:string,"",""
+actedOnBehalfOf,kom:Agent_199,kom:Agent_200,"","","","","","","","","","","","","","","","","","","","",contract,xsd:string,"","","","","","","",""
+alternateOf,kom:File_733,kom:File_737,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+wasAttributedTo,kom:File_728,kom:Agent_199,"","","","","","","","","","","","","","","","","","","","","","","","","","","","",attribution_att,xsd:string
+specializationOf,kom:File_733,kom:File_738,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+wasInformedBy,kom:Activity_336,kom:Activity_334,"","","","","","","","","","","","","","","","","","","","","","","","","","","","",communication_att,xsd:string
+wasInformedBy,kom:Activity_336,kom:Activity_335,"","","","","","","","","","","","","","","","","","","","","","","","","","","","",communication_att,xsd:string
+wasInvalidatedBy,kom:File_728,kom:Activity_334,Location4,xsd:string,"","","","","","",2014-04-17 13:18:56.0,xsd:dateTime,dummy_val_invalidation,xsd:string,"","","","","","","","","","","","","","","","","",""
+wasStartedBy,kom:Activity_335,kom:File_729,Location2,xsd:string,"","","","","","","","","","",2014-04-17 13:18:56.0,xsd:dateTime,dummy_val,xsd:string,"","","","","","","","","","","","","",""
+wasEndedBy,kom:Activity_335,kom:File_731,Location3,xsd:string,"","","","","","","","","","","","","","",2014-04-17 13:18:56.0,xsd:dateTime,dummy_val_end,xsd:string,"","","","","","","","","",""
+hadMember,kom:Collection_730,kom:File_727,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+hadMember,kom:Collection_730,kom:File_740,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+hadMember,kom:Collection_726,kom:File_727,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+hadMember,kom:Collection_726,kom:File_739,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""

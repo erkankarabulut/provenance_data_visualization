@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="cytoscape">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependencies/cytoscape.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/cytoscapeswing-3.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/jedis-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/json-simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/osgi.core-6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/dependencies/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/osgi.core-6.0.0.jar!/OSGI-OPT/src" />
+    </SOURCES>
+  </library>
+</component>

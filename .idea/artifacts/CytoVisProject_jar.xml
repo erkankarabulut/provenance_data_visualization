@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CytoVisProject:jar">
+    <output-path>$PROJECT_DIR$/../..</output-path>
+    <root id="archive" name="CytoVisProject.jar">
+      <element id="module-output" name="CytoVisProject" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/org.springframework.aop/2.5.6.SEC01/org.springframework.aop-2.5.6.SEC01.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/cytoscapeswing/cytoscapeswing/3.5.1/cytoscapeswing-3.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/org.springframework.core/2.5.6.SEC01/org.springframework.core-2.5.6.SEC01.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/org.springframework.beans/2.5.6.SEC01/org.springframework.beans-2.5.6.SEC01.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/org.springframework.context/2.5.6.SEC01/org.springframework.context-2.5.6.SEC01.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/cytoscapegroupid/cytoscapeartifactid/3.5.1/cytoscapeartifactid-3.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/osgi/org.eclipse.osgi/3.2.2/org.eclipse.osgi-3.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/json-simple-1.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="json-simple-1.1" />
+      <element id="module-output" name="Cytoscape_Kafka_Project" />
+      <element id="library" level="project" name="cytoscape" />
+      <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1" />
+      <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.5" />
+      <element id="library" level="project" name="Maven: junit:junit:3.8.1" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+      <element id="library" level="project" name="Maven: net.jpountz.lz4:lz4:1.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.kafka:kafka-clients:0.9.0.0" />
+      <element id="library" level="project" name="Maven: org.junit:com.springsource.junit:3.8.2" />
+      <element id="library" level="project" name="Maven: org.slf4j:com.springsource.slf4j.api:1.5.0" />
+      <element id="library" level="project" name="Maven: org.slf4j:com.springsource.slf4j.log4j:1.5.0" />
+      <element id="library" level="project" name="Maven: org.slf4j:com.springsource.slf4j.org.apache.commons.logging:1.5.0" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.12" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.12" />
+      <element id="library" level="project" name="Maven: org.xerial.snappy:snappy-java:1.1.1.7" />
+      <element id="library" level="project" name="Maven: redis.clients:jedis:2.1.0" />
+    </root>
+  </artifact>
+</component>

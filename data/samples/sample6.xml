@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prov:document xmlns:prov="http://www.w3.org/ns/prov#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:pronaliz="http://www.pronaliz.yildiz.edu.tr">
+    <prov:entity prov:id="pronaliz:status__13__10__1">
+        <prov:value xsi:type="xsd:string">Tweet arbitray Text</prov:value>
+    </prov:entity>
+    <prov:activity prov:id="pronaliz:workflow__main__13__10__post__0"/>
+    <prov:wasGeneratedBy>
+        <prov:entity prov:ref="pronaliz:status__13__10__1"/>
+        <prov:activity prov:ref="pronaliz:workflow__main__13__10__post__0"/>
+        <prov:role xsi:type="xsd:string">author</prov:role>
+    </prov:wasGeneratedBy>
+    <prov:agent prov:id="pronaliz:__40GeorgeHartman">
+        <prov:label>0.773239013140344, 0.29162796243273725, 0.7813504550774254</prov:label>
+    </prov:agent>
+    <prov:wasAttributedTo prov:id="pronaliz:WAT_40GeorgeHartman">
+        <prov:entity prov:ref="pronaliz:status__13__10__1"/>
+        <prov:agent prov:ref="pronaliz:__40GeorgeHartman"/>
+    </prov:wasAttributedTo>
+    <prov:wasAssociatedWith prov:id="pronaliz:WAW_40GeorgeHartman">
+        <prov:activity prov:ref="pronaliz:workflow__main__13__10__post__0"/>
+        <prov:agent prov:ref="pronaliz:__40GeorgeHartman"/>
+    </prov:wasAssociatedWith>
+    <prov:entity prov:id="pronaliz:status__13__10__2">
+        <prov:value xsi:type="xsd:string">Tweet arbitray Text</prov:value>
+    </prov:entity>
+    <prov:wasDerivedFrom>
+        <prov:generatedEntity prov:ref="pronaliz:status__13__10__2"/>
+        <prov:usedEntity prov:ref="pronaliz:status__13__10__1"/>
+    </prov:wasDerivedFrom>
+    <prov:wasAttributedTo prov:id="pronaliz:WAT_40RonnieFleming">
+        <prov:entity prov:ref="pronaliz:status__13__10__2"/>
+        <prov:agent prov:ref="pronaliz:__40RonnieFleming"/>
+    </prov:wasAttributedTo>
+    <prov:agent prov:id="pronaliz:__40RonnieFleming">
+        <prov:label>0.6249595239011162, 0.3095096502014694, 0.658041054940834</prov:label>
+    </prov:agent>
+    <prov:activity prov:id="pronaliz:activity__13__10__2__2"/>
+    <prov:wasGeneratedBy>
+        <prov:entity prov:ref="pronaliz:status__13__10__2"/>
+        <prov:activity prov:ref="pronaliz:activity__13__10__2__2"/>
+        <prov:role xsi:type="xsd:string">reply</prov:role>
+    </prov:wasGeneratedBy>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__2__2">
+        <prov:activity prov:ref="pronaliz:activity__13__10__2__2"/>
+        <prov:agent prov:ref="pronaliz:__40RonnieFleming"/>
+    </prov:wasAssociatedWith>
+    <prov:entity prov:id="pronaliz:status__13__10__3">
+        <prov:value xsi:type="xsd:string">Tweet arbitray Text</prov:value>
+    </prov:entity>
+    <prov:wasDerivedFrom>
+        <prov:generatedEntity prov:ref="pronaliz:status__13__10__3"/>
+        <prov:usedEntity prov:ref="pronaliz:status__13__10__1"/>
+    </prov:wasDerivedFrom>
+    <prov:agent prov:id="pronaliz:__40GeorgeHartman">
+        <prov:label>0.773239013140344, 0.29162796243273725, 0.7813504550774254</prov:label>
+    </prov:agent>
+    <prov:wasAttributedTo prov:id="pronaliz:WAT_40GeorgeHartman">
+        <prov:entity prov:ref="pronaliz:status__13__10__3"/>
+        <prov:agent prov:ref="pronaliz:__40GeorgeHartman"/>
+    </prov:wasAttributedTo>
+    <prov:activity prov:id="pronaliz:activity__13__10__3__2"/>
+    <prov:wasGeneratedBy>
+        <prov:entity prov:ref="pronaliz:status__13__10__3"/>
+        <prov:activity prov:ref="pronaliz:activity__13__10__3__2"/>
+        <prov:role xsi:type="xsd:string">reply</prov:role>
+    </prov:wasGeneratedBy>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__3__2">
+        <prov:activity prov:ref="pronaliz:activity__13__10__3__2"/>
+        <prov:agent prov:ref="pronaliz:__40GeorgeHartman"/>
+    </prov:wasAssociatedWith>
+    <prov:agent prov:id="pronaliz:__40ClaraMack">
+        <prov:label>0.3274337702848708, 0.05668946403465829, 0.3499137825443621</prov:label>
+    </prov:agent>
+    <prov:activity prov:id="pronaliz:activity__13__10__4__1"/>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__4__1">
+        <prov:activity prov:ref="pronaliz:activity__13__10__4__1"/>
+        <prov:agent prov:ref="pronaliz:__40ClaraMack"/>
+    </prov:wasAssociatedWith>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__2__21496780006823activity__13__10__3__21496780006823activity__13__10__4__11496780006823">
+        <prov:activity prov:ref="pronaliz:activity__13__10__2__21496780006823activity__13__10__3__21496780006823activity__13__10__4__11496780006823"/>
+        <prov:agent prov:ref="pronaliz:__40RonnieFleming"/>
+    </prov:wasAssociatedWith>
+    <prov:agent prov:id="pronaliz:__40RonnieFleming">
+        <prov:label>0.6249595239011162, 0.3095096502014694, 0.658041054940834</prov:label>
+    </prov:agent>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__2__21496780006823activity__13__10__3__21496780006823activity__13__10__4__11496780006823">
+        <prov:activity prov:ref="pronaliz:activity__13__10__2__21496780006823activity__13__10__3__21496780006823activity__13__10__4__11496780006823"/>
+        <prov:agent prov:ref="pronaliz:__40GeorgeHartman"/>
+    </prov:wasAssociatedWith>
+    <prov:agent prov:id="pronaliz:__40GeorgeHartman">
+        <prov:label>0.773239013140344, 0.29162796243273725, 0.7813504550774254</prov:label>
+    </prov:agent>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__2__21496780006823activity__13__10__3__21496780006823activity__13__10__4__11496780006823">
+        <prov:activity prov:ref="pronaliz:activity__13__10__2__21496780006823activity__13__10__3__21496780006823activity__13__10__4__11496780006823"/>
+        <prov:agent prov:ref="pronaliz:__40ClaraMack"/>
+    </prov:wasAssociatedWith>
+    <prov:agent prov:id="pronaliz:__40ClaraMack">
+        <prov:label>0.3274337702848708, 0.05668946403465829, 0.3499137825443621</prov:label>
+    </prov:agent>
+    <prov:entity prov:id="pronaliz:newstatestatus__13__10__1">
+        <prov:value xsi:type="xsd:string">Original tweet at2016.09.07 02:01:30</prov:value>
+    </prov:entity>
+    <prov:activity prov:id="pronaliz:activity__13__10__2__21496780006823activity__13__10__3__21496780006823activity__13__10__4__11496780006823"/>
+    <prov:wasDerivedFrom>
+        <prov:generatedEntity prov:ref="pronaliz:newstatestatus__13__10__1"/>
+        <prov:usedEntity prov:ref="pronaliz:status__13__10__1"/>
+    </prov:wasDerivedFrom>
+    <prov:wasGeneratedBy>
+        <prov:entity prov:ref="pronaliz:newstatestatus__13__10__1"/>
+        <prov:activity prov:ref="pronaliz:activity__13__10__2__21496780006823activity__13__10__3__21496780006823activity__13__10__4__11496780006823"/>
+        <prov:role xsi:type="xsd:string">activity_13_10_2_21496780006823activity_13_10_3_21496780006823activity_13_10_4_11496780006823</prov:role>
+    </prov:wasGeneratedBy>
+    <prov:wasAttributedTo prov:id="pronaliz:WAT_40ClaraMack">
+        <prov:entity prov:ref="pronaliz:newstatestatus__13__10__1"/>
+        <prov:agent prov:ref="pronaliz:__40ClaraMack"/>
+    </prov:wasAttributedTo>
+    <prov:entity prov:id="pronaliz:status__13__10__4">
+        <prov:value xsi:type="xsd:string">Tweet arbitray Text</prov:value>
+    </prov:entity>
+    <prov:wasDerivedFrom>
+        <prov:generatedEntity prov:ref="pronaliz:status__13__10__4"/>
+        <prov:usedEntity prov:ref="pronaliz:newstatestatus__13__10__1"/>
+    </prov:wasDerivedFrom>
+    <prov:wasAttributedTo prov:id="pronaliz:WAT_40SierraFletcher">
+        <prov:entity prov:ref="pronaliz:status__13__10__4"/>
+        <prov:agent prov:ref="pronaliz:__40SierraFletcher"/>
+    </prov:wasAttributedTo>
+    <prov:agent prov:id="pronaliz:__40SierraFletcher">
+        <prov:label>0.3158535830704085, 0.9223683901668032, 0.40435739775894897</prov:label>
+    </prov:agent>
+    <prov:activity prov:id="pronaliz:activity__13__10__5__2"/>
+    <prov:wasGeneratedBy>
+        <prov:entity prov:ref="pronaliz:status__13__10__4"/>
+        <prov:activity prov:ref="pronaliz:activity__13__10__5__2"/>
+        <prov:role xsi:type="xsd:string">reply</prov:role>
+    </prov:wasGeneratedBy>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__5__2">
+        <prov:activity prov:ref="pronaliz:activity__13__10__5__2"/>
+        <prov:agent prov:ref="pronaliz:__40SierraFletcher"/>
+    </prov:wasAssociatedWith>
+    <prov:agent prov:id="pronaliz:__40RonnieFleming">
+        <prov:label>0.6249595239011162, 0.3095096502014694, 0.658041054940834</prov:label>
+    </prov:agent>
+    <prov:activity prov:id="pronaliz:activity__13__10__6__1"/>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__6__1">
+        <prov:activity prov:ref="pronaliz:activity__13__10__6__1"/>
+        <prov:agent prov:ref="pronaliz:__40RonnieFleming"/>
+    </prov:wasAssociatedWith>
+    <prov:entity prov:id="pronaliz:status__13__10__5">
+        <prov:value xsi:type="xsd:string">Tweet arbitray Text</prov:value>
+    </prov:entity>
+    <prov:wasDerivedFrom>
+        <prov:generatedEntity prov:ref="pronaliz:status__13__10__5"/>
+        <prov:usedEntity prov:ref="pronaliz:newstatestatus__13__10__1"/>
+    </prov:wasDerivedFrom>
+    <prov:agent prov:id="pronaliz:__40LindseyCraft">
+        <prov:label>0.44236909439529687, 0.40158435419443, 0.04307631704127106</prov:label>
+    </prov:agent>
+    <prov:wasAttributedTo prov:id="pronaliz:WAT_40LindseyCraft">
+        <prov:entity prov:ref="pronaliz:status__13__10__5"/>
+        <prov:agent prov:ref="pronaliz:__40LindseyCraft"/>
+    </prov:wasAttributedTo>
+    <prov:activity prov:id="pronaliz:activity__13__10__7__3"/>
+    <prov:wasGeneratedBy>
+        <prov:entity prov:ref="pronaliz:status__13__10__5"/>
+        <prov:activity prov:ref="pronaliz:activity__13__10__7__3"/>
+        <prov:role xsi:type="xsd:string">retweet</prov:role>
+    </prov:wasGeneratedBy>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__7__3">
+        <prov:activity prov:ref="pronaliz:activity__13__10__7__3"/>
+        <prov:agent prov:ref="pronaliz:__40LindseyCraft"/>
+    </prov:wasAssociatedWith>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__5__21496780006827activity__13__10__6__11496780006827activity__13__10__7__31496780006827">
+        <prov:activity prov:ref="pronaliz:activity__13__10__5__21496780006827activity__13__10__6__11496780006827activity__13__10__7__31496780006827"/>
+        <prov:agent prov:ref="pronaliz:__40SierraFletcher"/>
+    </prov:wasAssociatedWith>
+    <prov:agent prov:id="pronaliz:__40SierraFletcher">
+        <prov:label>0.3158535830704085, 0.9223683901668032, 0.40435739775894897</prov:label>
+    </prov:agent>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__5__21496780006827activity__13__10__6__11496780006827activity__13__10__7__31496780006827">
+        <prov:activity prov:ref="pronaliz:activity__13__10__5__21496780006827activity__13__10__6__11496780006827activity__13__10__7__31496780006827"/>
+        <prov:agent prov:ref="pronaliz:__40RonnieFleming"/>
+    </prov:wasAssociatedWith>
+    <prov:agent prov:id="pronaliz:__40RonnieFleming">
+        <prov:label>0.6249595239011162, 0.3095096502014694, 0.658041054940834</prov:label>
+    </prov:agent>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__5__21496780006827activity__13__10__6__11496780006827activity__13__10__7__31496780006827">
+        <prov:activity prov:ref="pronaliz:activity__13__10__5__21496780006827activity__13__10__6__11496780006827activity__13__10__7__31496780006827"/>
+        <prov:agent prov:ref="pronaliz:__40LindseyCraft"/>
+    </prov:wasAssociatedWith>
+    <prov:agent prov:id="pronaliz:__40LindseyCraft">
+        <prov:label>0.44236909439529687, 0.40158435419443, 0.04307631704127106</prov:label>
+    </prov:agent>
+    <prov:entity prov:id="pronaliz:newstatestatus__13__10__2">
+        <prov:value xsi:type="xsd:string">Original tweet at2016.09.07 02:03:00</prov:value>
+    </prov:entity>
+    <prov:activity prov:id="pronaliz:activity__13__10__5__21496780006827activity__13__10__6__11496780006827activity__13__10__7__31496780006827"/>
+    <prov:wasDerivedFrom>
+        <prov:generatedEntity prov:ref="pronaliz:newstatestatus__13__10__2"/>
+        <prov:usedEntity prov:ref="pronaliz:newstatestatus__13__10__1"/>
+    </prov:wasDerivedFrom>
+    <prov:wasGeneratedBy>
+        <prov:entity prov:ref="pronaliz:newstatestatus__13__10__2"/>
+        <prov:activity prov:ref="pronaliz:activity__13__10__5__21496780006827activity__13__10__6__11496780006827activity__13__10__7__31496780006827"/>
+        <prov:role xsi:type="xsd:string">activity_13_10_5_21496780006827activity_13_10_6_11496780006827activity_13_10_7_31496780006827</prov:role>
+    </prov:wasGeneratedBy>
+    <prov:wasAttributedTo prov:id="pronaliz:WAT_40LindseyCraft">
+        <prov:entity prov:ref="pronaliz:newstatestatus__13__10__2"/>
+        <prov:agent prov:ref="pronaliz:__40LindseyCraft"/>
+    </prov:wasAttributedTo>
+    <prov:agent prov:id="pronaliz:__40DaveChang">
+        <prov:label>1.0, 1.0, 1.0</prov:label>
+    </prov:agent>
+    <prov:activity prov:id="pronaliz:activity__13__10__8__1"/>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__8__1">
+        <prov:activity prov:ref="pronaliz:activity__13__10__8__1"/>
+        <prov:agent prov:ref="pronaliz:__40DaveChang"/>
+    </prov:wasAssociatedWith>
+    <prov:entity prov:id="pronaliz:status__13__10__6">
+        <prov:value xsi:type="xsd:string">Tweet arbitray Text</prov:value>
+    </prov:entity>
+    <prov:wasDerivedFrom>
+        <prov:generatedEntity prov:ref="pronaliz:status__13__10__6"/>
+        <prov:usedEntity prov:ref="pronaliz:newstatestatus__13__10__2"/>
+    </prov:wasDerivedFrom>
+    <prov:agent prov:id="pronaliz:__40MarilynBlack">
+        <prov:label>0.12912882962564065, 0.39590377729521176, 0.2275908046734595</prov:label>
+    </prov:agent>
+    <prov:wasAttributedTo prov:id="pronaliz:WAT_40MarilynBlack">
+        <prov:entity prov:ref="pronaliz:status__13__10__6"/>
+        <prov:agent prov:ref="pronaliz:__40MarilynBlack"/>
+    </prov:wasAttributedTo>
+    <prov:activity prov:id="pronaliz:activity__13__10__9__3"/>
+    <prov:wasGeneratedBy>
+        <prov:entity prov:ref="pronaliz:status__13__10__6"/>
+        <prov:activity prov:ref="pronaliz:activity__13__10__9__3"/>
+        <prov:role xsi:type="xsd:string">retweet</prov:role>
+    </prov:wasGeneratedBy>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__9__3">
+        <prov:activity prov:ref="pronaliz:activity__13__10__9__3"/>
+        <prov:agent prov:ref="pronaliz:__40MarilynBlack"/>
+    </prov:wasAssociatedWith>
+    <prov:agent prov:id="pronaliz:__40LindseyCraft">
+        <prov:label>0.44236909439529687, 0.40158435419443, 0.04307631704127106</prov:label>
+    </prov:agent>
+    <prov:activity prov:id="pronaliz:activity__13__10__10__1"/>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__10__1">
+        <prov:activity prov:ref="pronaliz:activity__13__10__10__1"/>
+        <prov:agent prov:ref="pronaliz:__40LindseyCraft"/>
+    </prov:wasAssociatedWith>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__8__11496780006841activity__13__10__9__31496780006841activity__13__10__10__11496780006841">
+        <prov:activity prov:ref="pronaliz:activity__13__10__8__11496780006841activity__13__10__9__31496780006841activity__13__10__10__11496780006841"/>
+        <prov:agent prov:ref="pronaliz:__40DaveChang"/>
+    </prov:wasAssociatedWith>
+    <prov:agent prov:id="pronaliz:__40DaveChang">
+        <prov:label>1.0, 1.0, 1.0</prov:label>
+    </prov:agent>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__8__11496780006841activity__13__10__9__31496780006841activity__13__10__10__11496780006841">
+        <prov:activity prov:ref="pronaliz:activity__13__10__8__11496780006841activity__13__10__9__31496780006841activity__13__10__10__11496780006841"/>
+        <prov:agent prov:ref="pronaliz:__40MarilynBlack"/>
+    </prov:wasAssociatedWith>
+    <prov:agent prov:id="pronaliz:__40MarilynBlack">
+        <prov:label>0.12912882962564065, 0.39590377729521176, 0.2275908046734595</prov:label>
+    </prov:agent>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__8__11496780006841activity__13__10__9__31496780006841activity__13__10__10__11496780006841">
+        <prov:activity prov:ref="pronaliz:activity__13__10__8__11496780006841activity__13__10__9__31496780006841activity__13__10__10__11496780006841"/>
+        <prov:agent prov:ref="pronaliz:__40LindseyCraft"/>
+    </prov:wasAssociatedWith>
+    <prov:agent prov:id="pronaliz:__40LindseyCraft">
+        <prov:label>0.44236909439529687, 0.40158435419443, 0.04307631704127106</prov:label>
+    </prov:agent>
+    <prov:entity prov:id="pronaliz:newstatestatus__13__10__5">
+        <prov:value xsi:type="xsd:string">Original tweet at2016.09.07 02:04:30</prov:value>
+    </prov:entity>
+    <prov:activity prov:id="pronaliz:activity__13__10__8__11496780006841activity__13__10__9__31496780006841activity__13__10__10__11496780006841"/>
+    <prov:wasDerivedFrom>
+        <prov:generatedEntity prov:ref="pronaliz:newstatestatus__13__10__5"/>
+        <prov:usedEntity prov:ref="pronaliz:newstatestatus__13__10__2"/>
+    </prov:wasDerivedFrom>
+    <prov:wasGeneratedBy>
+        <prov:entity prov:ref="pronaliz:newstatestatus__13__10__5"/>
+        <prov:activity prov:ref="pronaliz:activity__13__10__8__11496780006841activity__13__10__9__31496780006841activity__13__10__10__11496780006841"/>
+        <prov:role xsi:type="xsd:string">activity_13_10_8_11496780006841activity_13_10_9_31496780006841activity_13_10_10_11496780006841</prov:role>
+    </prov:wasGeneratedBy>
+    <prov:wasAttributedTo prov:id="pronaliz:WAT_40LindseyCraft">
+        <prov:entity prov:ref="pronaliz:newstatestatus__13__10__5"/>
+        <prov:agent prov:ref="pronaliz:__40LindseyCraft"/>
+    </prov:wasAttributedTo>
+    <prov:agent prov:id="pronaliz:__40BruceByers">
+        <prov:label>0.5745542726654796, 0.24300330567246203, 0.3896066749419662</prov:label>
+    </prov:agent>
+    <prov:activity prov:id="pronaliz:activity__13__10__11__1"/>
+    <prov:wasAssociatedWith prov:id="pronaliz:activity__13__10__11__1">
+        <prov:activity prov:ref="pronaliz:activity__13__10__11__1"/>
+        <prov:agent prov:ref="pronaliz:__40BruceByers"/>
+    </prov:wasAssociatedWith>
+</prov:document>
